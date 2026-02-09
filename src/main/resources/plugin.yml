@@ -1,0 +1,7 @@
+name: PVPClumps
+version: '1.0.0-beta'
+main: live.spog.pvpClumps.ClumpsPlugin
+api-version: '1.21'
+prefix: PVPClumps
+authors: [ Spog ]
+description: Clumps plugin made for pvp servers and smps. Works straight out of the box.
